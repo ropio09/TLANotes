@@ -1,0 +1,4 @@
+
+cp= copy
+cd= change directory
+mkdir= make folder/directory
